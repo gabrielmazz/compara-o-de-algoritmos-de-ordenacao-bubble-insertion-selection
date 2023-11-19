@@ -1,0 +1,160 @@
+Rodando para 100 itens
+Tempo de Bubble Sort para Ordenado com 100 itens: 0,000005
+Tempo de Bubble Sort para Decrescente com 100 itens: 0,000020
+Tempo de Bubble Sort para Parcialmente Ordenado com 100 itens: 0,000010
+Tempo de Bubble Sort para Aleatorio com 100 itens: 0,000015
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 200 itens
+Tempo de Bubble Sort para Ordenado com 200 itens: 0,000018
+Tempo de Bubble Sort para Decrescente com 200 itens: 0,000081
+Tempo de Bubble Sort para Parcialmente Ordenado com 200 itens: 0,000023
+Tempo de Bubble Sort para Aleatorio com 200 itens: 0,000058
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 500 itens
+Tempo de Bubble Sort para Ordenado com 500 itens: 0,000105
+Tempo de Bubble Sort para Decrescente com 500 itens: 0,000512
+Tempo de Bubble Sort para Parcialmente Ordenado com 500 itens: 0,000094
+Tempo de Bubble Sort para Aleatorio com 500 itens: 0,000329
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1000 itens
+Tempo de Bubble Sort para Ordenado com 1000 itens: 0,000364
+Tempo de Bubble Sort para Decrescente com 1000 itens: 0,002045
+Tempo de Bubble Sort para Parcialmente Ordenado com 1000 itens: 0,000316
+Tempo de Bubble Sort para Aleatorio com 1000 itens: 0,001241
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 2000 itens
+Tempo de Bubble Sort para Ordenado com 2000 itens: 0,001656
+Tempo de Bubble Sort para Decrescente com 2000 itens: 0,008218
+Tempo de Bubble Sort para Parcialmente Ordenado com 2000 itens: 0,001087
+Tempo de Bubble Sort para Aleatorio com 2000 itens: 0,005129
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 5000 itens
+Tempo de Bubble Sort para Ordenado com 5000 itens: 0,010155
+Tempo de Bubble Sort para Decrescente com 5000 itens: 0,052558
+Tempo de Bubble Sort para Parcialmente Ordenado com 5000 itens: 0,006158
+Tempo de Bubble Sort para Aleatorio com 5000 itens: 0,035787
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 7500 itens
+Tempo de Bubble Sort para Ordenado com 7500 itens: 0,022136
+Tempo de Bubble Sort para Decrescente com 7500 itens: 0,116568
+Tempo de Bubble Sort para Parcialmente Ordenado com 7500 itens: 0,013577
+Tempo de Bubble Sort para Aleatorio com 7500 itens: 0,086928
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 10000 itens
+Tempo de Bubble Sort para Ordenado com 10000 itens: 0,039194
+Tempo de Bubble Sort para Decrescente com 10000 itens: 0,206576
+Tempo de Bubble Sort para Parcialmente Ordenado com 10000 itens: 0,025482
+Tempo de Bubble Sort para Aleatorio com 10000 itens: 0,161560
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 15000 itens
+Tempo de Bubble Sort para Ordenado com 15000 itens: 0,087993
+Tempo de Bubble Sort para Decrescente com 15000 itens: 0,466081
+Tempo de Bubble Sort para Parcialmente Ordenado com 15000 itens: 0,052655
+Tempo de Bubble Sort para Aleatorio com 15000 itens: 0,381488
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 30000 itens
+Tempo de Bubble Sort para Ordenado com 30000 itens: 0,349363
+Tempo de Bubble Sort para Decrescente com 30000 itens: 1,860855
+Tempo de Bubble Sort para Parcialmente Ordenado com 30000 itens: 0,209008
+Tempo de Bubble Sort para Aleatorio com 30000 itens: 1,597666
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 50000 itens
+Tempo de Bubble Sort para Ordenado com 50000 itens: 0,999315
+Tempo de Bubble Sort para Decrescente com 50000 itens: 5,172539
+Tempo de Bubble Sort para Parcialmente Ordenado com 50000 itens: 0,572512
+Tempo de Bubble Sort para Aleatorio com 50000 itens: 4,551891
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 75000 itens
+Tempo de Bubble Sort para Ordenado com 75000 itens: 2,290928
+Tempo de Bubble Sort para Decrescente com 75000 itens: 11,767189
+Tempo de Bubble Sort para Parcialmente Ordenado com 75000 itens: 1,300836
+Tempo de Bubble Sort para Aleatorio com 75000 itens: 10,418602
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 100000 itens
+Tempo de Bubble Sort para Ordenado com 100000 itens: 4,038491
+Tempo de Bubble Sort para Decrescente com 100000 itens: 20,759632
+Tempo de Bubble Sort para Parcialmente Ordenado com 100000 itens: 2,300348
+Tempo de Bubble Sort para Aleatorio com 100000 itens: 18,339277
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 200000 itens
+Tempo de Bubble Sort para Ordenado com 200000 itens: 16,347425
+Tempo de Bubble Sort para Decrescente com 200000 itens: 83,615516
+Tempo de Bubble Sort para Parcialmente Ordenado com 200000 itens: 9,396234
+Tempo de Bubble Sort para Aleatorio com 200000 itens: 74,165734
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 500000 itens
+Tempo de Bubble Sort para Ordenado com 500000 itens: 102,726752
+Tempo de Bubble Sort para Decrescente com 500000 itens: 521,141617
+Tempo de Bubble Sort para Parcialmente Ordenado com 500000 itens: 57,692718
+Tempo de Bubble Sort para Aleatorio com 500000 itens: 461,904934
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 750000 itens
+Tempo de Bubble Sort para Ordenado com 750000 itens: 232,228723
+Tempo de Bubble Sort para Decrescente com 750000 itens: 1179,532739
+Tempo de Bubble Sort para Parcialmente Ordenado com 750000 itens: 136,451765
+Tempo de Bubble Sort para Aleatorio com 750000 itens: 1050,173450
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1000000 itens
+Tempo de Bubble Sort para Ordenado com 1000000 itens: 416,263193
+Tempo de Bubble Sort para Decrescente com 1000000 itens: 2093,982958
+Tempo de Bubble Sort para Parcialmente Ordenado com 1000000 itens: 236,168572
+Tempo de Bubble Sort para Aleatorio com 1000000 itens: 1892,981715
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1250000 itens
+Tempo de Bubble Sort para Ordenado com 1250000 itens: 659,991253
+Tempo de Bubble Sort para Decrescente com 1250000 itens: 3317,693623
+Tempo de Bubble Sort para Parcialmente Ordenado com 1250000 itens: 385,445128
+Tempo de Bubble Sort para Aleatorio com 1250000 itens: 2975,815113
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1500000 itens
+Tempo de Bubble Sort para Ordenado com 1500000 itens: 958,661219
+Tempo de Bubble Sort para Decrescente com 1500000 itens: 4785,363345
+Tempo de Bubble Sort para Parcialmente Ordenado com 1500000 itens: 525,942274
+Tempo de Bubble Sort para Aleatorio com 1500000 itens: 5042,090373
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 2000000 itens
+Tempo de Bubble Sort para Ordenado com 2000000 itens: 1905,355397
+Tempo de Bubble Sort para Decrescente com 2000000 itens: 8295,667401
+Tempo de Bubble Sort para Parcialmente Ordenado com 2000000 itens: 936,561442
+Tempo de Bubble Sort para Aleatorio com 2000000 itens: 7408,303936
+
+=-=-=-=-=-=-=-=-=-=
+

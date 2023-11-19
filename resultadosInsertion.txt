@@ -1,0 +1,160 @@
+Rodando para 100 itens
+Tempo de Insertion Sort para Ordenado com 100 itens: 0,000001
+Tempo de Insertion Sort para Decrescente com 100 itens: 0,000003
+Tempo de Insertion Sort para Parcialmente Ordenado com 100 itens: 0,000001
+Tempo de Insertion Sort para Aleatorio com 100 itens: 0,000002
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 200 itens
+Tempo de Insertion Sort para Ordenado com 200 itens: 0,000000
+Tempo de Insertion Sort para Decrescente com 200 itens: 0,000010
+Tempo de Insertion Sort para Parcialmente Ordenado com 200 itens: 0,000003
+Tempo de Insertion Sort para Aleatorio com 200 itens: 0,000006
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 500 itens
+Tempo de Insertion Sort para Ordenado com 500 itens: 0,000002
+Tempo de Insertion Sort para Decrescente com 500 itens: 0,000058
+Tempo de Insertion Sort para Parcialmente Ordenado com 500 itens: 0,000005
+Tempo de Insertion Sort para Aleatorio com 500 itens: 0,000031
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1000 itens
+Tempo de Insertion Sort para Ordenado com 1000 itens: 0,000001
+Tempo de Insertion Sort para Decrescente com 1000 itens: 0,000240
+Tempo de Insertion Sort para Parcialmente Ordenado com 1000 itens: 0,000010
+Tempo de Insertion Sort para Aleatorio com 1000 itens: 0,000123
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 2000 itens
+Tempo de Insertion Sort para Ordenado com 2000 itens: 0,000003
+Tempo de Insertion Sort para Decrescente com 2000 itens: 0,000923
+Tempo de Insertion Sort para Parcialmente Ordenado com 2000 itens: 0,000017
+Tempo de Insertion Sort para Aleatorio com 2000 itens: 0,000478
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 5000 itens
+Tempo de Insertion Sort para Ordenado com 5000 itens: 0,000006
+Tempo de Insertion Sort para Decrescente com 5000 itens: 0,005644
+Tempo de Insertion Sort para Parcialmente Ordenado com 5000 itens: 0,000045
+Tempo de Insertion Sort para Aleatorio com 5000 itens: 0,002863
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 7500 itens
+Tempo de Insertion Sort para Ordenado com 7500 itens: 0,000009
+Tempo de Insertion Sort para Decrescente com 7500 itens: 0,012755
+Tempo de Insertion Sort para Parcialmente Ordenado com 7500 itens: 0,000078
+Tempo de Insertion Sort para Aleatorio com 7500 itens: 0,006404
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 10000 itens
+Tempo de Insertion Sort para Ordenado com 10000 itens: 0,000011
+Tempo de Insertion Sort para Decrescente com 10000 itens: 0,022752
+Tempo de Insertion Sort para Parcialmente Ordenado com 10000 itens: 0,000102
+Tempo de Insertion Sort para Aleatorio com 10000 itens: 0,011451
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 15000 itens
+Tempo de Insertion Sort para Ordenado com 15000 itens: 0,000016
+Tempo de Insertion Sort para Decrescente com 15000 itens: 0,051168
+Tempo de Insertion Sort para Parcialmente Ordenado com 15000 itens: 0,000125
+Tempo de Insertion Sort para Aleatorio com 15000 itens: 0,025922
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 30000 itens
+Tempo de Insertion Sort para Ordenado com 30000 itens: 0,000032
+Tempo de Insertion Sort para Decrescente com 30000 itens: 0,203342
+Tempo de Insertion Sort para Parcialmente Ordenado com 30000 itens: 0,000262
+Tempo de Insertion Sort para Aleatorio com 30000 itens: 0,101754
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 50000 itens
+Tempo de Insertion Sort para Ordenado com 50000 itens: 0,000051
+Tempo de Insertion Sort para Decrescente com 50000 itens: 0,564874
+Tempo de Insertion Sort para Parcialmente Ordenado com 50000 itens: 0,000316
+Tempo de Insertion Sort para Aleatorio com 50000 itens: 0,284842
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 75000 itens
+Tempo de Insertion Sort para Ordenado com 75000 itens: 0,000075
+Tempo de Insertion Sort para Decrescente com 75000 itens: 1,270971
+Tempo de Insertion Sort para Parcialmente Ordenado com 75000 itens: 0,000341
+Tempo de Insertion Sort para Aleatorio com 75000 itens: 0,636449
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 100000 itens
+Tempo de Insertion Sort para Ordenado com 100000 itens: 0,000100
+Tempo de Insertion Sort para Decrescente com 100000 itens: 2,274387
+Tempo de Insertion Sort para Parcialmente Ordenado com 100000 itens: 0,000388
+Tempo de Insertion Sort para Aleatorio com 100000 itens: 1,133914
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 200000 itens
+Tempo de Insertion Sort para Ordenado com 200000 itens: 0,000202
+Tempo de Insertion Sort para Decrescente com 200000 itens: 9,042608
+Tempo de Insertion Sort para Parcialmente Ordenado com 200000 itens: 0,000516
+Tempo de Insertion Sort para Aleatorio com 200000 itens: 4,530113
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 500000 itens
+Tempo de Insertion Sort para Ordenado com 500000 itens: 0,000506
+Tempo de Insertion Sort para Decrescente com 500000 itens: 56,704733
+Tempo de Insertion Sort para Parcialmente Ordenado com 500000 itens: 0,000677
+Tempo de Insertion Sort para Aleatorio com 500000 itens: 28,342862
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 750000 itens
+Tempo de Insertion Sort para Ordenado com 750000 itens: 0,000764
+Tempo de Insertion Sort para Decrescente com 750000 itens: 128,082928
+Tempo de Insertion Sort para Parcialmente Ordenado com 750000 itens: 0,001003
+Tempo de Insertion Sort para Aleatorio com 750000 itens: 63,857177
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1000000 itens
+Tempo de Insertion Sort para Ordenado com 1000000 itens: 0,001001
+Tempo de Insertion Sort para Decrescente com 1000000 itens: 228,291781
+Tempo de Insertion Sort para Parcialmente Ordenado com 1000000 itens: 0,001147
+Tempo de Insertion Sort para Aleatorio com 1000000 itens: 113,906769
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1250000 itens
+Tempo de Insertion Sort para Ordenado com 1250000 itens: 0,001257
+Tempo de Insertion Sort para Decrescente com 1250000 itens: 359,247359
+Tempo de Insertion Sort para Parcialmente Ordenado com 1250000 itens: 0,001350
+Tempo de Insertion Sort para Aleatorio com 1250000 itens: 178,147332
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 1500000 itens
+Tempo de Insertion Sort para Ordenado com 1500000 itens: 0,001511
+Tempo de Insertion Sort para Decrescente com 1500000 itens: 513,439130
+Tempo de Insertion Sort para Parcialmente Ordenado com 1500000 itens: 0,001529
+Tempo de Insertion Sort para Aleatorio com 1500000 itens: 256,161778
+
+=-=-=-=-=-=-=-=-=-=
+
+Rodando para 2000000 itens
+Tempo de Insertion Sort para Ordenado com 2000000 itens: 0,001967
+Tempo de Insertion Sort para Decrescente com 2000000 itens: 941,459756
+Tempo de Insertion Sort para Parcialmente Ordenado com 2000000 itens: 0,001911
+Tempo de Insertion Sort para Aleatorio com 2000000 itens: 485,736162
+
+=-=-=-=-=-=-=-=-=-=
+
